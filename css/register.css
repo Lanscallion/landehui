@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+ul,ol,li{
+    list-style: none;
+}
+a,a:link,a:active,a:hover{
+    text-decoration: none;
+        color: rgb(0, 0, 0);
+}
+.t{
+    width: 100%;
+    height: 72px;
+    background-color: rgb(154, 154, 154);
+}
+.op{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top:100px;
+    left: 250px;
+}
+.hw{
+    font-size: 100px;
+    display: block;
+    position: absolute;
+    top:460px;
+    font-style: italic;
+    left: 240px;
+    z-index: 9;
+    color: #fff;
+    /* background: red; */
+}
+input,button,textarea,select{
+    outline: none;
+    /* 取消轮廓 */
+}
+button,select{
+    cursor: pointer;
+}
+.header a>img{
+    width: 103px;
+    height: 74px;
+}
+img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    position: relative;
+}
+.header>p.active{
+    display: block;
+}
+.header>span{
+    font-size: 40px ;
+    color: aquamarine ;
+    font-weight: 600;
+}
+.header>p{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 30px;
+    display: none;
+}
+form{
+    width: 500px;
+    padding: 20px;
+    border: 3px solid pink;
+    border-radius: 15px;
+    margin:150px 0px 0 750px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+form>span{
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    width: 400px;
+    transform: translateX(-50%);
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    display: none;
+}
+form>label{
+    height: 50px;
+}
+form>label>input{
+    width: 70%;
+    padding-left:20px ;
+    height: 34px;
+}
+.four-center-1>a{
+    
+}
+form>button{
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(216, 81, 81);
+}
+.footer{
+    width: 100%;
+    height: 101px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgb(154, 154, 154);
+}
+.footer>ul{
+    text-align: center;
+    list-style: none;
+    margin: 20px auto;
+    width:500px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer>ul li{
+    list-style: none;
+    float: left; border-right: 1px rgb(67, 67, 67) solid;
+  padding-right: 6px;
+  line-height: 1;
+}
+.footer>div{
+   width: 300px;
+   height: 20px;
+    margin: 20px auto;
+    font-size: 12px;
+}

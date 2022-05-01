@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14733",
+      "name": "向上",
+      "font_class": "xiangshang",
+      "unicode": "f02aa",
+      "unicode_decimal": 983722
+    },
+    {
+      "icon_id": "630094",
+      "name": "向右箭头",
+      "font_class": "xiangyoujiantou",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "630095",
+      "name": "向左箭头",
+      "font_class": "xiangzuojiantou",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "672036",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "706851",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1183022",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "1191001",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "1600947",
+      "name": "businessman",
+      "font_class": "businessman",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1600991",
+      "name": "geek",
+      "font_class": "geek",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1922701",
+      "name": "可爱",
+      "font_class": "keai",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "2674476",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3650986",
+      "name": "可爱",
+      "font_class": "keai1",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "5387609",
+      "name": "上下展开",
+      "font_class": "shangxiazhankai",
+      "unicode": "eb13",
+      "unicode_decimal": 60179
+    },
+    {
+      "icon_id": "5483275",
+      "name": "可爱",
+      "font_class": "keai2",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "12714524",
+      "name": "三角裤",
+      "font_class": "ziyuan",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}

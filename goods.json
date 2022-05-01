@@ -1,0 +1,14 @@
+{
+    "goods": [
+      { "id": 1, "img":"../","name": "华为不要钱", "price": 112},
+      { "id": 1, "img":"../","name": "华为不要钱", "price": 112},
+      { "id": 1, "img":"../","name": "华为不要钱", "price": 112},
+      { "id": 1, "img":"../","name": "华为不要钱", "price": 112},
+      { "id": 1, "img":"../","name": "华为不要钱", "price": 112},
+      { "id": 1, "img":"../","name": "华为不要钱", "price": 112}
+    ],
+    "cart": [
+      { "id": 1, "userId": "11", "goodsId": 12,"num":22 }
+    ],
+    "user": {"id":1, "name": "typicode","pwd":12345 }
+  }

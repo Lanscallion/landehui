@@ -1,0 +1,195 @@
+{
+  "goods": [
+    { "id": 1, "img":"https://res.vmallres.com/uomcdn/CN/cms/202204/930144DC1E5ED42B7507128DE57A0FF9.jpg.webp"},
+    { "id": 2, "img":"https://res.vmallres.com/uomcdn/CN/cms/202204/7DD8326173B45AFD645B0EC30A9119CE.png.webp"},
+    { "id": 3, "img":"https://res.vmallres.com/uomcdn/CN/cms/202204/4855AE0A38BB12DF4E195AB16FFF66D4.png.webp"},
+    { "id": 4, "img":"https://res.vmallres.com/uomcdn/CN/cms/202204/E5DAC361612D5EFD575099A42927EDC6.png.webp"}
+  ],
+  "miaosha":[
+  {"id":1,
+    "img":"https://res.vmallres.com/pimages/uomcdn/CN/pms/202204/gbom/6941487260522/428_428_98F4C26BB746ABFA1687C9ED26E63E8Amp.png",
+    "name":"不智能手表",
+    "pic":1999
+  },
+  {"id":2,
+    "img":"https://res.vmallres.com/pimages/uomcdn/CN/pms/202204/gbom/6941487261611/428_428_17D89C5F7435B8AEF93A07D68A43AD39mp.png",
+    "name":"四根锚的路由",
+    "pic":999
+  },
+  {"id":3,
+    "img":"https://res.vmallres.com/pimages/product/6941487222865/428_428_2CE4C027AEEB2BCDA1048B2F63A4254A313C5CC802A58C46mp.png",
+    "name":"彩色小屏幕",
+    "pic":4999
+  },{"id":4,
+    "img":"https://res.vmallres.com/pimages/uomcdn/CN/pms/202110/gbom/6939991700085/428_428_7156D42F0620E7EF4B3A10B1582CC01Bmp.png",
+    "name":"致癌净化器",
+    "pic":3999
+  },{"id":5,
+    "img":"https://res.vmallres.com/pimages/uomcdn/CN/pms/202109/gbom/6959095502637/428_428_ACB2DB3FA1240D55EEB1580BCD327C3F.png",
+    "name":"致癌净化器",
+    "pic":1999
+  }],
+  "shouji":[{
+    "id":1,
+    "img":"https://res8.vmallres.com/pimages/uomcdn/CN/pms/202204/gbom/6941487261352/428_428_79227E5C15D7A07A0E513B8737074254mp.png",
+    "name":"1万多的折屏手机",
+    "pic":9999
+  },{"id":2,
+    "img":"https://res1.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/6941487253296/428_428_EBF5C14985404E87D8D2191853806B6Emp.png",
+    "name":"黑的手机",
+    "pic":3999
+  },{"id":3,
+    "img":"https://res3.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/6941487250950/428_428_72D63243ACB341C9BE9BFB628681F7D6mp.png",
+    "name":"浅蓝手机",
+    "pic":3999
+  },{"id":4,
+    "img":"https://res2.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/6941487235780/428_428_19CD7CA6B1B14C407DD460DCC5091458mp.png",
+    "name":"黄的手机",
+    "pic":3999
+  },{"id":5,
+    "img":"https://res2.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/6941487247301/428_428_EA55647077150063E6F9D31D618B3355mp.png",
+    "name":"还是黑的",
+    "pic":3999
+  },{"id":6,
+    "img":"https://res8.vmallres.com/pimages/product/6941487236619/428_428_A30F47C90D9E3C06D424317B1E6EA9A8D9A8318CB3B392ADmp.png",
+    "name":"紫色的手机",
+    "pic":2999
+  },{"id":7,
+    "img":"https://res6.vmallres.com/pimages/product/6941487218226/428_428_230905737725BCAC381867EA934287325221A5BBDCC43AE7mp.png",
+    "name":"白色的手机",
+    "pic":3999
+  },{"id":8,
+    "img":"https://res1.vmallres.com/pimages/product/6941487236862/428_428_06856CD9D988AE79E7E746D321E6017DFB577FB26EF9C909mp.png",
+    "name":"最后黑的手机",
+    "pic":4999
+  }],
+  "shoubiao":[{
+    "id":1,
+    "img":"https://res7.vmallres.com/pimages/uomcdn/CN/pms/202204/gbom/6941487249428/428_428_D0425B49F36377EBC15687B3E52E955Amp.png",
+    "name":"梁世杰看不上看的表",
+    "pic":2999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":2,
+    "img":"https://res1.vmallres.com/pimages/uomcdn/CN/pms/202204/gbom/6941487260522/428_428_98F4C26BB746ABFA1687C9ED26E63E8Amp.png",
+    "name":"梁世杰去年买了个表",
+    "pic":3999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":3,
+    "img":"https://res1.vmallres.com/pimages/product/6941487224364/428_428_EF8C02B11B0053549E1A0766706AFB8910ED4B828F655657mp.png",
+    "name":"梁世杰专属于小黑表",
+    "pic":5999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":4,
+    "img":"https://res4.vmallres.com/pimages/uomcdn/CN/pms/202202/gbom/6941487220687/428_428_A317C546F298036E9BE20B8D30378A3Dmp.png",
+    "name":"梁世杰不用的运动表",
+    "pic":4999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":5,
+    "img":"https://res1.vmallres.com/pimages/uomcdn/CN/pms/202202/gbom/6941487214921/428_428_F97868B124B91DB759E822F748AAF767mp.png",
+    "name":"梁世杰保镖用的",
+    "pic":4999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":6,
+    "img":"https://res8.vmallres.com/pimages/uomcdn/CN/pms/202112/gbom/6941487238125/428_428_0A1DC75E3711DBE13E3D6FF117532B77mp.png",
+    "name":"梁世杰天天带的表",
+    "pic":3999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":7,
+    "img":"https://res8.vmallres.com/pimages/uomcdn/CN/pms/202112/gbom/6941487248445/428_428_26284550F30480CC2D66A107F45E956Fmp.png",
+    "name":"梁世杰的小红表",
+    "pic":3999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":8,
+    "img":"https://res1.vmallres.com/pimages/uomcdn/CN/pms/202202/gbom/6972453166487/428_428_30CE8E8F4BC50E7CB4EB0C79BFC68A63mp.png",
+    "name":"梁世杰的小黑表",
+    "pic":2999,
+    "ldh":"兰德辉的儿子梁世杰"
+  }],
+  "shengtai":[{
+    "id":1,
+    "img":"https://res8.vmallres.com/pimages/uomcdn/CN/pms/202112/gbom/6973937959014/428_428_D80A413F069BE0297A44EEB3347E55A4mp.png",
+    "name":"梁世杰看不上看的投影仪",
+    "pic":2999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":2,
+    "img":"https://res3.vmallres.com/pimages/product/6925662234010/428_428_61EA04A3BE69816F6FA41BA889D8C73682C3F70245AA7237mp.png",
+    "name":"梁世杰的专属按摩椅",
+    "pic":8999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":3,
+    "img":"https://res8.vmallres.com/pimages/uomcdn/CN/pms/202112/gbom/6973937959014/428_428_D80A413F069BE0297A44EEB3347E55A4mp.png",
+    "name":"梁世杰看不上看的投影仪",
+    "pic":5999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":4,
+    "img":"https://res3.vmallres.com/pimages/product/6925662234010/428_428_61EA04A3BE69816F6FA41BA889D8C73682C3F70245AA7237mp.png",
+    "name":"梁世杰的专属按摩椅",
+    "pic":8999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":5,
+    "img":"https://res8.vmallres.com/pimages/uomcdn/CN/pms/202112/gbom/6973937959014/428_428_D80A413F069BE0297A44EEB3347E55A4mp.png",
+    "name":"梁世杰看不上看的投影仪",
+    "pic":4999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":6,
+    "img":"https://res3.vmallres.com/pimages/product/6925662234010/428_428_61EA04A3BE69816F6FA41BA889D8C73682C3F70245AA7237mp.png",
+    "name":"梁世杰的专属按摩椅",
+    "pic":8999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":7,
+    "img":"https://res8.vmallres.com/pimages/uomcdn/CN/pms/202112/gbom/6973937959014/428_428_D80A413F069BE0297A44EEB3347E55A4mp.png",
+    "name":"梁世杰看不上看的投影仪",
+    "pic":3999,
+    "ldh":"兰德辉的儿子梁世杰"
+  },{"id":8,
+    "img":"https://res3.vmallres.com/pimages/product/6925662234010/428_428_61EA04A3BE69816F6FA41BA889D8C73682C3F70245AA7237mp.png",
+    "name":"梁世杰的专属按摩椅",
+    "pic":8999,
+    "ldh":"兰德辉的儿子梁世杰"
+  }
+],
+"jiu":[{
+  "id":1,
+  "img":"https://res4.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/TA0100118/428_428_1E0ABEFCB288A6788F8305CB2C3DD3AEmp.png",
+  "name":"小红酒",
+  "pic":2999,
+  "ldh":"兰德辉的儿子梁世杰"
+},{"id":2,
+  "img":"https://res5.vmallres.com/pimages/uomcdn/CN/pms/202202/gbom/8437010828423/428_428_31B10CB9D50A3198BDD8AF5C6ABC9CD4mp.png",
+  "name":"梁世杰微醺",
+  "pic":8999,
+  "ldh":"兰德辉的儿子梁世杰"
+},{"id":3,
+  "img":"https://res4.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/TA0100118/428_428_1E0ABEFCB288A6788F8305CB2C3DD3AEmp.png",
+  "name":"梁世杰看不上的酒",
+  "pic":5999,
+  "ldh":"兰德辉的儿子梁世杰"
+},{"id":4,
+  "img":"https://res5.vmallres.com/pimages/uomcdn/CN/pms/202202/gbom/8437010828423/428_428_31B10CB9D50A3198BDD8AF5C6ABC9CD4mp.png",
+  "name":"梁世杰日常的酒",
+  "pic":8999,
+  "ldh":"兰德辉的儿子梁世杰"
+},{"id":5,
+  "img":"https://res4.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/TA0100118/428_428_1E0ABEFCB288A6788F8305CB2C3DD3AEmp.png",
+  "name":"梁世杰喝了酒倒的酒",
+  "pic":4999,
+  "ldh":"兰德辉的儿子梁世杰"
+},{"id":6,
+  "img":"https://res5.vmallres.com/pimages/uomcdn/CN/pms/202202/gbom/8437010828423/428_428_31B10CB9D50A3198BDD8AF5C6ABC9CD4mp.png",
+  "name":"梁世杰买不起的酒",
+  "pic":8999,
+  "ldh":"兰德辉的儿子梁世杰"
+},{"id":7,
+  "img":"https://res4.vmallres.com/pimages/uomcdn/CN/pms/202203/gbom/TA0100118/428_428_1E0ABEFCB288A6788F8305CB2C3DD3AEmp.png",
+  "name":"梁世杰喝了长寿百年的酒",
+  "pic":3999,
+  "ldh":"兰德辉的儿子梁世杰"
+},{"id":8,
+  "img":"https://res5.vmallres.com/pimages/uomcdn/CN/pms/202202/gbom/8437010828423/428_428_31B10CB9D50A3198BDD8AF5C6ABC9CD4mp.png",
+  "name":"梁世杰的喜酒",
+  "pic":8999,
+  "ldh":"兰德辉的儿子梁世杰"
+}
+]
+}
+

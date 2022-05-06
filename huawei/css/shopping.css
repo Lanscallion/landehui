@@ -29,7 +29,7 @@
 
 .head-left li {
     list-style: none;
-
+   
 }
 
 .head-left li a {
@@ -49,10 +49,12 @@
     align-items: center;
 
 }
-
+.lllll{
+    pointer-events: all;   
+}
 .head-right li {
     list-style: none;
-
+   
 }
 
 .head-right li a {
@@ -91,6 +93,7 @@
     list-style: none;
     line-height: 74px;
     margin-right: 35px;
+ 
 }
 
 .head-2-center ul li:nth-child(1) {
@@ -134,6 +137,7 @@
     width: 104px;
     float: left;
     font-size: 14px;
+  
 }
 
 .i1 {
@@ -147,11 +151,12 @@
     display: flex;
     width: 30px;
     height: 16px;
-
+   
 }
 
 .js_1 li:nth-child(1) {
     color: rgb(129, 129, 129);
+   
 }
 
 .fx {
@@ -180,9 +185,14 @@
     box-shadow: darkgrey 0px 0px 10px 5px;
 }
 
+/* .shopp li *{
+    pointer-events: none; 
+ } */
+
 .shop .shopp li {
     width: 290px;
     height: 387px;
+
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
@@ -192,6 +202,7 @@
 
 .shop ul li a {
     text-decoration: none;
+
 }
 
 .shop ul li a>img {
@@ -224,10 +235,11 @@
     color: #000;
     margin-top: 10px;
 }
-.p4{
+ .shop .p4{
     text-decoration: none;
     color: #000;
     margin-top: 10px;
+    /* pointer-events: all;    */
 }
 /* 底部 */
 .base{
@@ -374,6 +386,7 @@
     font-size: 14px;
     color: #575757;
     text-align: center;
+
     line-height: 30px;
     padding-top: 5px;
     background-color: white;

@@ -7,6 +7,24 @@ class A {
         this.bindList3()
         this.$('.shop ul').addEventListener('click', this.addCartFn.bind(this))
         // this.$("")
+        this.$(".shop ul").addEventListener('click',this.qukanliangshijie.bind(this))
+    }
+    async qukanliangshijie(eve){
+        
+        let lisObj=eve.target.parentNode.parentNode
+        console.log(lisObj);
+        let goodsId=lisObj.dataset.id;
+        console.log(goodsId);
+        window.localStorage.setItem("sp_id",goodsId);
+        let param =`id=${goodsId}`;
+        console.log(param);
+        let {data,status} =await axios.get("http://localhost:8888/goods/item"+"?"+param)
+            console.log(data)
+        if(status==200){
+            if(eve.target.classList.contains("imgs"))
+            location.assign("../index/gouwuche.html"+"?"+param);
+            // window.location.href=""
+        }
     }
     async bindList3() {
         let { data, status } = await axios.get('http://localhost:8888/goods/list'+"?"+"&pagesize=900")
@@ -26,7 +44,7 @@ class A {
             str += `
             <li data-id="${item.goods_id}">
                 <a href="#none">
-                    <img src="${item.img_big_logo}" alt=""> 
+                    <img class="imgs" src="${item.img_big_logo}" alt=""> 
                 </a>
                     <p class="p1">${item.title}</p>
                     <p class="p2">已售${item.sale_type}</p>
@@ -34,7 +52,7 @@ class A {
                     <a class="p4">立即抢购</a>
             </li>`
             // console.log(111);
-            console.log(item.goods_id);
+            // console.log(item.goods_id);
         })
         this.$('.shop ul').innerHTML = str
     }
@@ -54,7 +72,7 @@ class A {
             console.log(goosId);//获取到对应id 商品id
             let userId = localStorage.getItem('id')
             console.log(userId);//用户id
-            // 两个id必须都有才能发送请求
+            // 两个id必须都有才能发送请求1
             if (!userId || !goosId) throw new Error("两个id存在问题.打印查看");
             axios.defaults.headers.common['authorization'] = token;
             axios.defaults.headers['Content-Type'] = 'application/x-www-form-urlencoded';

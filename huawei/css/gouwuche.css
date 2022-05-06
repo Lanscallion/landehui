@@ -129,7 +129,7 @@ color: #000;
 }
 .box{
     width: 450px;
-    height: 600.23px;
+    /* height: 600.23px; */
     margin-top: 30px;
     border: 2px solid rgb(103, 102, 102);
     position: relative;
@@ -269,6 +269,9 @@ img{
     top: 310px;
     text-align: center;
     margin-top: 50px;
+}
+.xiadan p:hover{
+    cursor: pointer;
 }
 .xiadan p{
     float: left;
